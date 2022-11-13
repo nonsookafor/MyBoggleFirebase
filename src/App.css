@@ -1,5 +1,22 @@
-.App {
-  text-align: center;
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.boggle {
+  margin-right: 100px;
+}
+
+#h1 {
+  font-size: 20px;
+}
+
+.button {
+}
+
+.dropdown {
+  margin-left: 100px;
 }
 
 .App-logo {

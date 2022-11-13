@@ -1,0 +1,28 @@
+
+.form {
+	margin-top: 50px;
+	margin-right: 250px;
+	margin-left: 250px;
+	margin-bottom: 50px;
+}
+
+.here {
+	text-align: center;
+}
+
+.val {
+	justify-content: center;
+  margin-top: 100px;
+}
+
+.extra {
+	margin-top: 100px;
+}
+
+.chal {
+	margin-bottom: 100px;
+}
+
+.exit {
+	margin-left: 600px;
+}
