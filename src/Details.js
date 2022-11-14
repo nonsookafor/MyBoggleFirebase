@@ -47,6 +47,7 @@ function Details({gridNumber, totalWords, missedWords, time, highScore1}) {
 	}
 
 	console.log(77);
+	console.log(totalWords)
   return (
 		<div className="general">
 			<div className="container2">
